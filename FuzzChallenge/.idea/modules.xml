@@ -3,8 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FuzzChallenge.iml" filepath="$PROJECT_DIR$/FuzzChallenge.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/fuzzchallenge.iml" filepath="$PROJECT_DIR$/app/fuzzchallenge.iml" />
-      <module fileurl="file://$PROJECT_DIR$/volley/volley.iml" filepath="$PROJECT_DIR$/volley/volley.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fuzzchallenge/fuzzchallenge.iml" filepath="$PROJECT_DIR$/fuzzchallenge/fuzzchallenge.iml" />
     </modules>
   </component>
 </project>

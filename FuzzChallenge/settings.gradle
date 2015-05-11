@@ -1,1 +1,1 @@
-include ':fuzzchallenge', ':volley'
+include ':fuzzchallenge'
